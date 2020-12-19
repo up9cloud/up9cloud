@@ -17,7 +17,8 @@ Ask me about anything 😂
 > Edtiors
 
 [![VSCodium](https://img.shields.io/badge/-VSCodium-%23ffffff?logoColor=%2396d768)](https://vscodium.com)
-[![Nano](https://img.shields.io/badge/-Nano-%23ffffff?logoColor=%23832bf5)](https://www.nano-editor.org)
+[![Nano](https://img.shields.io/badge/-Nano-%23ffffff?logo=Gnu&logoColor=%23832bf5)](https://www.nano-editor.org)
+[![Notion](https://img.shields.io/badge/-Notion-%23ffffff?logo=Notion&logoColor=%23000000)](https://www.notion.so)
 
 > Frameworks
 

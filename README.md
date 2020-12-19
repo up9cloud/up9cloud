@@ -16,7 +16,7 @@ Ask me about anything 😂
 
 > Edtiors
 
-[![VSCodium](https://img.shields.io/badge/-VSCodium-%23ffffff?logoColor=%2396d768)](https://vscodium.com)
+[![VSCodium](https://img.shields.io/badge/-VSCodium-%23ffffff?logo=&logoColor=%2396d768)](https://vscodium.com)
 [![Nano](https://img.shields.io/badge/-Nano-%23ffffff?logo=Gnu&logoColor=%23832bf5)](https://www.nano-editor.org)
 [![Notion](https://img.shields.io/badge/-Notion-%23ffffff?logo=Notion&logoColor=%23000000)](https://www.notion.so)
 
@@ -37,6 +37,8 @@ Ask me about anything 😂
 
 [![Mariadb](https://img.shields.io/badge/-Mariadb-%23ffffff?logo=Mariadb&logoColor=%23003545)](https://mariadb.org/)
 [![Redis](https://img.shields.io/badge/-Redis-%23ffffff?logo=Redis&logoColor=%23DC382D)](https://redis.io)
+[![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-%23ffffff?logo=Elasticsearch&logoColor=%23005571)](https://www.elastic.co)
+
 
 > DevOps
 

@@ -43,6 +43,7 @@ Ask me about anything 😂
 > DevOps
 
 [![Netlify](https://img.shields.io/badge/-Netlify-%23ffffff?logo=netlify&logoColor=00C7B7)](https://www.netlify.com)
+[![Firebase](https://img.shields.io/badge/-Firebase-%23ffffff?logo=Firebase&logoColor=FFCA28)](https://console.firebase.google.com)
 [![Drone](https://img.shields.io/badge/-Drone%20CI-%23ffffff?logo=Drone&logoColor=%23212121)](https://www.drone.io)
 [![Docker](https://img.shields.io/badge/-Docker-%23ffffff?logo=Docker&logoColor=%232496ED)](https://www.docker.com)
 [![GCP](https://img.shields.io/badge/-GCP-%23ffffff?logo=Google%20Cloud&logoColor=%234285F4)](https://cloud.google.com)

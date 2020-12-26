@@ -55,8 +55,6 @@ Ask me about anything 😂
 <!-- [![V](https://img.shields.io/badge/-V-%23c9d1d9?logo=v&logoColor=%235D87BF)](https://vlang.io) -->
 <!-- [![Go](https://img.shields.io/badge/-Go-%23c9d1d9?logo=go&logoColor=%2300ADD8)](https://golang.org) -->
 
-## My Stats
-
 [![up9cloud's github stats](https://github-readme-stats.vercel.app/api?username=up9cloud&theme=dark&show_icons=true)](https://github.com/up9cloud)
 
 <!-- TODO: ![visitors]() -->

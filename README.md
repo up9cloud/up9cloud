@@ -52,10 +52,12 @@ Ask me about anything 😂
 [![Rust](https://img.shields.io/badge/-Rust-%23c9d1d9?logo=Rust&logoColor=%23000000)](https://www.rust-lang.org)
 [![PHP](https://img.shields.io/badge/-PHP-%23c9d1d9?logo=PHP&logoColor=%23777BB4)](https://www.php.net)
 [![Bash](https://img.shields.io/badge/-Bash-%23c9d1d9?logo=gnu%20bash&logoColor=%234EAA25)](https://www.gnu.org/software/bash)
-<!-- [![V](https://img.shields.io/badge/-V-%23c9d1d9?logo=v&logoColor=%235D87BF)](https://vlang.io) -->
-<!-- [![Go](https://img.shields.io/badge/-Go-%23c9d1d9?logo=go&logoColor=%2300ADD8)](https://golang.org) -->
+<!-- [![V](https://img.shields.io/badge/-V-%23c9d1d9?logo=v&logoColor=%235D87BF)](https://vlang.io)
+[![Go](https://img.shields.io/badge/-Go-%23c9d1d9?logo=go&logoColor=%2300ADD8)](https://golang.org) -->
 
 [![up9cloud's github stats](https://github-readme-stats.vercel.app/api?username=up9cloud&theme=dark&show_icons=true)](https://github.com/up9cloud)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=up9cloud&theme=dark&layout=compact)](https://github.com/up9cloud) -->
 
 <!-- TODO: ![visitors]() -->
 

@@ -14,7 +14,8 @@ Ask me about anything 😂
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-%23c9d1d9?logo=Bitbucket&logoColor=%230052CC)](https://bitbucket.org)
 
 <!-- Edtiors -->
-[![VSCodium](https://img.shields.io/badge/-VSCodium-%23c9d1d9?logo=&logoColor=%2396d768)](https://vscodium.com)
+<!-- TODO: real vscodium logo -->
+[![VSCodium](https://img.shields.io/badge/-VSCodium-%23c9d1d9?logo=visual-studio-code&logoColor=%2396d768)](https://vscodium.com)
 [![Nano](https://img.shields.io/badge/-Nano-%23c9d1d9?logo=Gnu&logoColor=%23832bf5)](https://www.nano-editor.org)
 [![Notion](https://img.shields.io/badge/-Notion-%23c9d1d9?logo=Notion&logoColor=%23000000)](https://www.notion.so)
 

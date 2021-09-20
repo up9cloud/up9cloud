@@ -15,7 +15,7 @@ Ask me about anything 😂
 
 <!-- Edtiors -->
 <!-- TODO: real vscodium logo -->
-[![VSCodium](https://img.shields.io/badge/-VSCodium-%23c9d1d9?logo=visual-studio-code&logoColor=%2396d768)](https://vscodium.com)
+[![VSCodium](https://img.shields.io/badge/-VSCodium-%23c9d1d9?logo=visual-studio-code&logoColor=%232859df)](https://vscodium.com)
 [![Nano](https://img.shields.io/badge/-Nano-%23c9d1d9?logo=Gnu&logoColor=%23832bf5)](https://www.nano-editor.org)
 [![Notion](https://img.shields.io/badge/-Notion-%23c9d1d9?logo=Notion&logoColor=%23000000)](https://www.notion.so)
 

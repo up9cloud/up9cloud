@@ -26,7 +26,7 @@ Ask me about anything 😂
 [![React.js](https://img.shields.io/badge/-React.js-%23c9d1d9?logo=React)](https://reactjs.org/)
 
 <!-- Mobile frameworks -->
-[![Flutter](https://img.shields.io/badge/-Flutter-%23c9d1d9?logo=Flutter)](https://flutter.dev/)
+[![Flutter](https://img.shields.io/badge/-Flutter-%23c9d1d9?logo=Flutter&logoColor=%233ac4fa)](https://flutter.dev/)
 
 <!-- Backend frameworks -->
 [![Express.js](https://img.shields.io/badge/-Express.js-%23c9d1d9?logo=JavaScript&logoColor=%23F7DF1E)](https://expressjs.com)

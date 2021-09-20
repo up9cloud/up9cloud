@@ -18,13 +18,17 @@ Ask me about anything 😂
 [![Nano](https://img.shields.io/badge/-Nano-%23c9d1d9?logo=Gnu&logoColor=%23832bf5)](https://www.nano-editor.org)
 [![Notion](https://img.shields.io/badge/-Notion-%23c9d1d9?logo=Notion&logoColor=%23000000)](https://www.notion.so)
 
-<!-- Frameworks -->
+<!-- Web frameworks -->
 [![Webpack](https://img.shields.io/badge/-Webpack-%23c9d1d9?logo=Webpack)](https://webpack.js.org)
 [![ESLint](https://img.shields.io/badge/-ESLint-%23c9d1d9?logo=ESLint&logoColor=%234B32C3)](https://eslint.org)
 [![Stylus](https://img.shields.io/badge/-Stylus-%23c9d1d9?logo=Stylus&logoColor=%23333333)](https://stylus-lang.com)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-%23c9d1d9?logo=Vue.js)](https://vuejs.org)
 [![React.js](https://img.shields.io/badge/-React.js-%23c9d1d9?logo=React)](https://reactjs.org/)
 
+<!-- Mobile frameworks -->
+[![Flutter](https://img.shields.io/badge/-Flutter-%23c9d1d9?logo=Flutter)](https://flutter.dev/)
+
+<!-- Backend frameworks -->
 [![Express.js](https://img.shields.io/badge/-Express.js-%23c9d1d9?logo=JavaScript&logoColor=%23F7DF1E)](https://expressjs.com)
 [![Slim](https://img.shields.io/badge/-Slim-%23c9d1d9?logo=PHP&logoColor=%23777BB4)](https://www.slimframework.com)
 [![Actix web](https://img.shields.io/badge/-Actix%20web-%23c9d1d9?logo=Rust&logoColor=%23686766)](https://actix.rs)

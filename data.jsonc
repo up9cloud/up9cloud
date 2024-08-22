@@ -98,10 +98,9 @@
                     "url": "https://stylus-lang.com"
                 },
                 {
-                    "name": "Stylus",
-                    "logo": "Stylus",
-                    "logoColor": "333333",
-                    "url": "https://stylus-lang.com"
+                    "name": "Vue.js",
+                    "logo": "Vue.js",
+                    "url": "https://vuejs.org"
                 },
                 {
                     "name": "React.js",
@@ -222,6 +221,12 @@
                     "logo": "Docker",
                     "logoColor": "2496ED",
                     "url": "https://www.docker.com"
+                },
+                {
+                    "name": "Netlify",
+                    "logo": "netlify",
+                    "logoColor": "00C7B7",
+                    "url": "https://www.netlify.com"
                 },
                 {
                     "name": "Firebase",

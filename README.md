@@ -13,7 +13,7 @@ You could open issues [here](https://github.com/up9cloud/up9cloud/issues) to rea
 [![MacOS](https://img.shields.io/badge/MacOS-c9d1d9?logo=apple&logoColor=999999)](https://www.apple.com/macbook-pro-13)
 
 <!-- Version control -->
-[![Git](https://img.shields.io/badge/Git-c9d1d9?logo=git&logoColor=undefined)](https://git-scm.com)
+[![Git](https://img.shields.io/badge/Git-c9d1d9?logo=git)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-c9d1d9?logo=gitHub&logoColor=181717)](https://github.com/up9cloud)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-c9d1d9?logo=bitbucket&logoColor=0052CC)](https://bitbucket.org)
 
@@ -23,11 +23,11 @@ You could open issues [here](https://github.com/up9cloud/up9cloud/issues) to rea
 [![Notion](https://img.shields.io/badge/Notion-c9d1d9?logo=notion&logoColor=000000)](https://www.notion.so)
 
 <!-- Web Frameworks -->
-[![Webpack](https://img.shields.io/badge/Webpack-c9d1d9?logo=webpack&logoColor=undefined)](https://webpack.js.org)
+[![Webpack](https://img.shields.io/badge/Webpack-c9d1d9?logo=webpack)](https://webpack.js.org)
 [![ESLint](https://img.shields.io/badge/ESLint-c9d1d9?logo=ESLint&logoColor=4B32C3)](https://eslint.org)
 [![Stylus](https://img.shields.io/badge/Stylus-c9d1d9?logo=Stylus&logoColor=333333)](https://stylus-lang.com)
-[![Stylus](https://img.shields.io/badge/Stylus-c9d1d9?logo=Stylus&logoColor=333333)](https://stylus-lang.com)
-[![React.js](https://img.shields.io/badge/React.js-c9d1d9?logo=React&logoColor=undefined)](https://reactjs.org)
+[![Vue.js](https://img.shields.io/badge/Vue.js-c9d1d9?logo=Vue.js)](https://vuejs.org)
+[![React.js](https://img.shields.io/badge/React.js-c9d1d9?logo=React)](https://reactjs.org)
 
 <!-- Mobile Frameworks -->
 [![Flutter](https://img.shields.io/badge/Flutter-c9d1d9?logo=Flutter&logoColor=3ac4fa)](https://flutter.dev)
@@ -52,6 +52,7 @@ You could open issues [here](https://github.com/up9cloud/up9cloud/issues) to rea
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-c9d1d9?logo=Cloudflare&logoColor=F38020)](https://dash.cloudflare.com)
 [![DroneCI](https://img.shields.io/badge/DroneCI-c9d1d9?logo=Drone&logoColor=212121)](https://www.drone.io)
 [![Docker](https://img.shields.io/badge/Docker-c9d1d9?logo=Docker&logoColor=2496ED)](https://www.docker.com)
+[![Netlify](https://img.shields.io/badge/Netlify-c9d1d9?logo=netlify&logoColor=00C7B7)](https://www.netlify.com)
 [![Firebase](https://img.shields.io/badge/Firebase-c9d1d9?logo=Firebase&logoColor=FFCA28)](https://console.firebase.google.com)
 
 ## Stats

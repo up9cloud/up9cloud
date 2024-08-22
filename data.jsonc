@@ -1,0 +1,276 @@
+{
+    "default": {
+        "backgroundColor": "c9d1d9"
+    },
+    "data": [
+        {
+            "name": "OS",
+            "list": [
+                {
+                    "name": "Ubuntu",
+                    "logo": "ubuntu",
+                    "logoColor": "E95420",
+                    "url": "https://ubuntu.com"
+                },
+                {
+                    "name": "Debian",
+                    "logo": "debian",
+                    "logoColor": "A81D33",
+                    "url": "https://www.debian.org"
+                },
+                {
+                    "name": "MacOS",
+                    "logo": "apple",
+                    "logoColor": "999999",
+                    "url": "https://www.apple.com/macbook-pro-13"
+                },
+            ]
+        },
+        {
+            "name": "Version control",
+            "list": [
+                {
+                    "name": "Git",
+                    "logo": "git",
+                    "url": "https://git-scm.com"
+                },
+                {
+                    "name": "GitHub",
+                    "logo": "gitHub",
+                    "logoColor": "181717",
+                    "url": "https://github.com/up9cloud"
+                },
+                {
+                    "name": "Bitbucket",
+                    "logo": "bitbucket",
+                    "logoColor": "0052CC",
+                    "url": "https://bitbucket.org"
+                },
+            ]
+        },
+        {
+            "name": "Editors",
+            "list": [
+                // { // TODO: real vscodium logo
+                //     "name": "VSCodium",
+                //     "logo": "visual-studio-code",
+                //     "logoColor": "2859df",
+                //     "url": "https://vscodium.com"
+                // },
+                {
+                    "name": "Visual Studio Code",
+                    "logo": "visual-studio-code",
+                    "logoColor": "2859df",
+                    "url": "https://code.visualstudio.com"
+                },
+                {
+                    "name": "Nano",
+                    "logo": "Gnu",
+                    "logoColor": "832bf5",
+                    "url": "https://www.nano-editor.org"
+                },
+                {
+                    "name": "Notion",
+                    "logo": "notion",
+                    "logoColor": "000000",
+                    "url": "https://www.notion.so"
+                },
+            ]
+        },
+        {
+            "name": "Web Frameworks",
+            "list": [
+                {
+                    "name": "Webpack",
+                    "logo": "webpack",
+                    "url": "https://webpack.js.org"
+                },
+                {
+                    "name": "ESLint",
+                    "logo": "ESLint",
+                    "logoColor": "4B32C3",
+                    "url": "https://eslint.org"
+                },
+                {
+                    "name": "Stylus",
+                    "logo": "Stylus",
+                    "logoColor": "333333",
+                    "url": "https://stylus-lang.com"
+                },
+                {
+                    "name": "Stylus",
+                    "logo": "Stylus",
+                    "logoColor": "333333",
+                    "url": "https://stylus-lang.com"
+                },
+                {
+                    "name": "React.js",
+                    "logo": "React",
+                    "url": "https://reactjs.org"
+                },
+            ]
+        },
+        {
+            "name": "Mobile Frameworks",
+            "list": [
+                {
+                    "name": "Flutter",
+                    "logo": "Flutter",
+                    "logoColor": "3ac4fa",
+                    "url": "https://flutter.dev"
+                },
+            ]
+        },
+        {
+            "name": "Backend Frameworks",
+            "list": [
+                {
+                    "name": "Express.js",
+                    "logo": "JavaScript",
+                    "logoColor": "F7DF1E",
+                    "url": "https://expressjs.com"
+                },
+                {
+                    "name": "Actix web",
+                    "logo": "Rust",
+                    "logoColor": "686766",
+                    "url": "https://actix.rs"
+                },
+                {
+                    "name": "Slim",
+                    "logo": "PHP",
+                    "logoColor": "777BB4",
+                    "url": "https://www.slimframework.com"
+                },
+            ]
+        },
+        {
+            "name": "Databases",
+            "list": [
+                {
+                    "name": "Mariadb",
+                    "logo": "Mariadb",
+                    "logoColor": "003545",
+                    "url": "https://mariadb.org"
+                },
+                {
+                    "name": "Redis",
+                    "logo": "Redis",
+                    "logoColor": "DC382D",
+                    "url": "https://redis.io"
+                },
+                {
+                    "name": "SQLite",
+                    "logo": "sqlite",
+                    "logoColor": "003B57",
+                    "url": "https://www.sqlite.org"
+                },
+                // {
+                //     "name": "Elasticsearch",
+                //     "logo": "Elasticsearch",
+                //     "logoColor": "005571",
+                //     "url": "https://www.elastic.co"
+                // },
+            ]
+        },
+        {
+            "name": "DevOps IaaS",
+            "list": [
+                {
+                    "name": "GCP",
+                    "logo": "google-cloud",
+                    "logoColor": "4285F4",
+                    "url": "https://cloud.google.com"
+                },
+                {
+                    "name": "Azure",
+                    "logo": "microsoft-azure",
+                    "logoColor": "007BFC",
+                    "url": "https://azure.microsoft.com"
+                },
+                {
+                    "name": "AWS",
+                    "logo": "amazon-web-services",
+                    "logoColor": "007BFC",
+                    "url": "https://aws.amazon.com"
+                },
+                {
+                    "name": "Vultr",
+                    "logo": "Vultr",
+                    "logoColor": "007BFC",
+                    "url": "https://www.vultr.com"
+                },
+            ]
+        },
+        {
+            "name": "DevOps PaaS",
+            "list": [
+                {
+                    "name": "Cloudflare",
+                    "logo": "Cloudflare",
+                    "logoColor": "F38020",
+                    "url": "https://dash.cloudflare.com"
+                },
+                {
+                    "name": "DroneCI",
+                    "logo": "Drone",
+                    "logoColor": "212121",
+                    "url": "https://www.drone.io"
+                },
+                {
+                    "name": "Docker",
+                    "logo": "Docker",
+                    "logoColor": "2496ED",
+                    "url": "https://www.docker.com"
+                },
+                {
+                    "name": "Firebase",
+                    "logo": "Firebase",
+                    "logoColor": "FFCA28",
+                    "url": "https://console.firebase.google.com"
+                },
+            ]
+        },
+        // {
+        //     "name": "Languages",
+        //     "list": [
+        //         {
+        //             "name": "JavaScript",
+        //             "logo": "JavaScript",
+        //             "logoColor": "F7DF1E",
+        //             "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        //         },
+        //         {
+        //             "name": "Rust",
+        //             "logo": "Rust",
+        //             "logoColor": "000000",
+        //             "url": "https://www.rust-lang.org"
+        //         },
+        //         {
+        //             "name": "PHP",
+        //             "logo": "PHP",
+        //             "logoColor": "777BB4",
+        //             "url": "https://www.php.net"
+        //         },
+        //         {
+        //             "name": "Bash",
+        //             "logo": "gnu bash",
+        //             "logoColor": "4EAA25",
+        //             "url": "https://www.gnu.org/software/bash"
+        //         },
+        //         {
+        //             "name": "V",
+        //             "logo": "v",
+        //             "logoColor": "5D87BF",
+        //             "url": "https://vlang.io"
+        //         },
+        //         {
+        //             "name": "Go",
+        //             "logo": "Go",
+        //             "logoColor": "00ADD8",
+        //             "url": "https://golang.org"
+        //         },
+        //     ]
+        // },
+    ]
+}

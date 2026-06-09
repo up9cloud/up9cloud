@@ -1,4 +1,10 @@
 {
+  "name": "up9cloud.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "license": "UNLICENSED",
+  "author": "",
+  "main": "index.js",
   "scripts": {
     "build": "node update-readme.mjs",
     "deploy": "gh-pages -d ."
@@ -6,11 +12,5 @@
   "dependencies": {
     "gh-pages": "^6.3.0",
     "jsonc-parser": "^3.3.1"
-  },
-  "name": "up9cloud.github.io",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "author": "",
-  "license": "UNLICENSED"
+  }
 }
